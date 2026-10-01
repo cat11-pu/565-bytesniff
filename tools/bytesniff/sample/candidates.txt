@@ -1,0 +1,9 @@
+# name,kind,bom,lead,trail
+utf-8,mb,efbbbf,2:c2-df;3:e0-ef;4:f0-f4,80-bf
+utf-16-le,mb,fffe,,
+utf-16-be,mb,feff,,
+latin-1,sb,,,
+cp1252,sb,,,
+shift_jis,mb,,2:81-9f/e0-ef,40-7e/80-fc
+gbk,mb,,2:81-fe,40-7e/80-fe
+big5,mb,,2:81-fe,40-7e/a1-fe
